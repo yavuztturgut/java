@@ -1,2 +1,2 @@
 # java
-all of my java stuff
+java projelerim
